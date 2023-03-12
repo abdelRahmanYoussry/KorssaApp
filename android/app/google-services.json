@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "558275927959",
+    "project_id": "korssasaleapp",
+    "storage_bucket": "korssasaleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558275927959:android:e38d3837a945647c25aed2",
+        "android_client_info": {
+          "package_name": "com.korssa.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558275927959-tfanhsvu20cagiafu8vfebbtr1c8d0jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPuNXBTkxPEyNs6b0RocDvszV3Y9mi7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558275927959-tfanhsvu20cagiafu8vfebbtr1c8d0jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558275927959:android:93fadfe4e02bd22225aed2",
+        "android_client_info": {
+          "package_name": "com.korssa.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558275927959-tfanhsvu20cagiafu8vfebbtr1c8d0jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPuNXBTkxPEyNs6b0RocDvszV3Y9mi7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558275927959-tfanhsvu20cagiafu8vfebbtr1c8d0jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558275927959:android:eb970ff749125f7d25aed2",
+        "android_client_info": {
+          "package_name": "com.korssa.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558275927959-tfanhsvu20cagiafu8vfebbtr1c8d0jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPuNXBTkxPEyNs6b0RocDvszV3Y9mi7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558275927959-tfanhsvu20cagiafu8vfebbtr1c8d0jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

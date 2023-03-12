@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">korssa</string>
+    <string name="facebook_app_id">891785618713207</string>
+    <string name="fb_login_protocol_scheme">fb891785618713207</string>
+    <string name="facebook_client_token">5eb578ca04fc652d855cf4029707af73</string>
+</resources>
